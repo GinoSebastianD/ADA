@@ -1,9 +1,6 @@
 
 /*1. Ordene el siguiente vector de números enteros ( 9 1 3 5 0 4 2 6 8 7 )
 a. ... utilizando el algoritmo Mergesort.
-b. ... utilizando el algoritmo Quicksort.
-c. ... de mayor a menor adaptando el algoritmo Mergesort.
-d. ... de mayor a menor adaptando el algoritmo Quicksort.
 */
 #include <iostream>
 #include <vector>
