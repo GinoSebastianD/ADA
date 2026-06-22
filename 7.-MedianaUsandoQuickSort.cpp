@@ -25,7 +25,7 @@ int particion(std::vector<int>& vec, int inicio,int fin, int indice) {
 }
 
 void merge(std::vector<int>& vec, int inicio, int fin) {
-	if (inicio < fin)
+	if (inicio <= fin)
 	{
 		
 		int indice = (tam - 1) / 2;
